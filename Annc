@@ -1,22 +1,8 @@
-_ = {
-
-
---[["perma ban fixed negar",
-"CMD NOT WORKING fixed",
-"Gunmode Added back",
-"Light Heavy Attack Added Back",
-"Fe smite fixed (real)",
-"Anti Swagmode",
-"Ping based prediction!!",
-"Better target (using old one)",
-"Better transition when bring",
-]]
-
+_={
 "perma ban fixed",
 "Fluxus support!?!?!? and crash fix?!?",
 "if the stand still crashed, report",
 "Mencintai mu adalah hal yang mudah"
 "tapi melupakan mu",
 "adalah hal yang tersusah bagi ku",
-"𝖘𝖊𝖙𝖍",
 }return _
